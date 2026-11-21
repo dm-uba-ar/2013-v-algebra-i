@@ -1,19 +1,19 @@
-# Álgebra I — Verano de 2013
+# Álgebra I
 
-## Prácticas
+Álgebra I, curso de verano 2013
 
-- [Práctica 5 - Enteros, segunda parte](practicacinco.pdf)
-- [Práctica 4 - Enteros, primera parte](practicacuatro.pdf)
-- [Práctica 2 - Naturales](practicados.pdf)
-- [Práctica 6 - Complejos](practicaseis.pdf)
-- [Práctica 7 - Polinomios](practicasiete.pdf)
-- [Práctica 3 - Combinatoria](practicatres.pdf)
-- [Práctica 1 - Conjuntos](practicauno.pdf)
+### Novedades
 
-## Apuntes y notas
+- Ya está confirmada el aula del segundo parcial. Atención: es en Pabellón 2!!
 
-- [notas alg1](notas-alg1.pdf)
+---
 
-## Página original
+### Horario y Aulas
 
-[Página de la cursada en el CMS](https://cms.dm.uba.ar/academico/materias/verano2013/algebra_I)
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Práctica | Lu - Ma - Ju - Vi: 16 a 19.15 | [Irene Drelichman](mailto:irene@drelichman.com) - [Patricia Jancsa](mailto:patjancsa@yahoo.com) | Aula: 4 | Pab: I |
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Teórica | Lu - Ma - Ju - Vi: 19.15 a 21.30 | [Jorge Guccione](mailto:vander@dm.uba.ar) | Aula: 4 | Pab: I |
